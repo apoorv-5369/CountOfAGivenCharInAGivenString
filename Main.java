@@ -13,6 +13,6 @@ public class MyClass {
           char c= s.charAt(i);
           if(c==x) num++;
       }
-      System.out.println(num);
+      System.out.println(" Count of given Character's repeatition in the String is: "+num);
     }
 }
